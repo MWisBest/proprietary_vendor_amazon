@@ -86,4 +86,3 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tate/proprietary/vendor/camera/R01_MVEN002_LD0_ND0_IR0_SH0_FL0_SVEN002_DCCID46/cid44_OV9726_lsc_interp.bin:system/vendor/camera/R01_MVEN002_LD0_ND0_IR0_SH0_FL0_SVEN002_DCCID46/cid44_OV9726_lsc_interp.bin \
     vendor/amazon/tate/proprietary/vendor/camera/R01_MVEN002_LD0_ND0_IR0_SH0_FL0_SVEN002_DCCID46/cid44_OV9726_vnf_cfg_dcc.bin:system/vendor/camera/R01_MVEN002_LD0_ND0_IR0_SH0_FL0_SVEN002_DCCID46/cid44_OV9726_vnf_cfg_dcc.bin \
     vendor/amazon/tate/proprietary/vendor/camera/R01_MVEN002_LD0_ND0_IR0_SH0_FL0_SVEN002_DCCID46/cid65535_kgen_dcc_preflash.bin:system/vendor/camera/R01_MVEN002_LD0_ND0_IR0_SH0_FL0_SVEN002_DCCID46/cid65535_kgen_dcc_preflash.bin
-

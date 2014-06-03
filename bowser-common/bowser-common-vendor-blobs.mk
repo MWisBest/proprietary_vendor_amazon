@@ -30,4 +30,3 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/bowser-common/proprietary/lib/libddp_omx.so:system/lib/libddp_omx.so \
     vendor/amazon/bowser-common/proprietary/lib/libstagefright_soft_ddpdec.so:system/lib/libstagefright_soft_ddpdec.so \
     vendor/amazon/bowser-common/proprietary/lib/soundfx/libdolbysurroundeffect.so:system/lib/soundfx/libdolbysurroundeffect.so
-
